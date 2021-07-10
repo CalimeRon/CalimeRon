@@ -1,4 +1,4 @@
-# Ron, a software Engineer who still believes there's such a thing as a "Full Stack Developer" 👋
+# Ron, a software Engineer you can trust 🤝
 
 I'm a former business-developer who reconverted into a passionate full stack developer.
 
@@ -25,19 +25,37 @@ I have experience in all of what's below.
 <a href= https://github.com/#65477545?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
 <a href= https://github.com/#65477545?tab=repositories&q=&type=&language=postman&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'> </a>
 
+---
+
 <h1>Past Projects</h1>
 
-<h2>Full_Stuck</h2>
+## [Full_Stuck](https://full-stuck.com)
+> [Repo](https://github.com/cw-thesis-project/full-stuck.com) • [Play the game!](https://full-stuck.com) • [Demo](https://www.youtube.com/watch?v=RHwkrV2tcAw)
+
+<a href="https://github.com/cw-thesis-project/full-stuck.com"> <img src="https://user-images.githubusercontent.com/65477545/125171265-f1651680-e1bb-11eb-82fd-f787c7ee0747.png" width="500">
+</a>
+
+Full_Stuck is a browser game in a bootcamp parody setting 
+
+The game was built in two weeks with 5 collaborators. <br />
+The front end uses React, Redux, Typescript, and uses Auth0 and AWS for back end serverless support.
 
 ## [HandiCrawl](https://github.com/CalimeRon/HandiCrawl)
 
-<a href="https://github.com/CalimeRon/HandiCrawl"> <img src="https://user-images.githubusercontent.com/65477545/125168776-c248a800-e1af-11eb-8414-f156bd2a133e.png">
+<a href="https://github.com/CalimeRon/HandiCrawl"> <img src="https://user-images.githubusercontent.com/65477545/125168776-c248a800-e1af-11eb-8414-f156bd2a133e.png" width="500">
 </a>
 
 
 Handicrawl is a collaborative App aimed at facilitating motor-disabled persons to move around in any part of the world. The app consist of a map that users can populate with accessibility icons to help inform about the easiness of access of a given space or building.
 
 The app was built in one week, using [Expo](https://expo.io/) on the front-end and [Google Firebase](https://firebase.google.com/) as a back-end suppost. It is still under active development
+
+---
+
+<h1>Contact</h1>
+
+- [Email](mailto:ron.chamma@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/ron-chamma/)
 
 <!--
 **CalimeRon/CalimeRon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
