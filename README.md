@@ -48,7 +48,7 @@ The front end uses React, Redux, Typescript, and uses Auth0 and AWS for back end
 
 Handicrawl is a collaborative App aimed at facilitating motor-disabled persons to move around in any part of the world. The app consist of a map that users can populate with accessibility icons to help inform about the easiness of access of a given space or building.
 
-The app was built in one week, using [Expo](https://expo.io/) on the front-end and [Google Firebase](https://firebase.google.com/) as a back-end suppost. It is still under active development
+The app was built in one week, using [Expo](https://expo.io/) on the front-end and [Google Firebase](https://firebase.google.com/) as a back-end support. It is still under active development
 
 ---
 
