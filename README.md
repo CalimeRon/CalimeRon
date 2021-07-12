@@ -53,7 +53,7 @@ The app was built in one week, using [Expo](https://expo.io/) on the front-end a
 
 [GrassHeap](https://github.com/GILREICH1/grassHeap) is a website created by [Gil Reich](https://github.com/GILREICH1) to track the tasks of your garden all year round according to the plants you're growing.
 
-[Juan Calle](https://github.com/juan-calle) worked on the code with following modifications:
+[Juan Calle](https://github.com/juan-calle) and I worked on the code with following modifications:
 - Refactor the front-end in Typescript
 - Test the back-end
 - Fix a few bugs
