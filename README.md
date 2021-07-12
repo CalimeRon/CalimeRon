@@ -48,6 +48,16 @@ Handicrawl is a collaborative App aimed at facilitating motor-disabled persons t
 
 The app was built in one week, using [Expo](https://expo.io/) on the front-end and [Google Firebase](https://firebase.google.com/) as a back-end support. It is still under active development
 
+
+## [GrassHeap](https://github.com/juan-calle/grassHeap/)
+
+[GrassHeap](https://github.com/GILREICH1/grassHeap) is a website created by [Gil Reich](https://github.com/GILREICH1) to track the tasks of your garden all year round according to the plants you're growing.
+
+[Juan Calle](https://github.com/juan-calle) worked on the code with following modifications:
+- Refactor the front-end in Typescript
+- Test the back-end
+- Fix a few bugs
+
 ---
 
 <h1>Contact</h1>
